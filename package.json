@@ -15,8 +15,8 @@
   "keywords": [
     "node-red",
     "AWS",
-    "SES",
-    "Simple Email Service"
+    "Athena",
+    "athena-express"
   ],
   "bugs": {
     "url": "https://github.com/VictorAlmaraz/node-red-contrib-aws-athena-express/issues"
